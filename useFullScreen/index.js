@@ -1,0 +1,1 @@
+export { useFullScrenn as default } from "./useFullScrenn";
